@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.i("====","测试提交");
         Log.i("====","测试提交2");
+        Log.i("====","测试提交TEST");
     }
 }
